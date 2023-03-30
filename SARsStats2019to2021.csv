@@ -1,0 +1,471 @@
+Year Month,Industry,Suspicious Activity,Count
+2019,Loan or Finance Company,Account Takeover,23
+2019,Loan or Finance Company,ACH,259
+2019,Loan or Finance Company,Against Financial Institution Customer(s),52
+2019,Loan or Finance Company,Against Financial Institution(s),18
+2019,Loan or Finance Company,Alters or Cancels Transaction to Avoid BSA Recordkeeping Requirement,9
+2019,Loan or Finance Company,Alters or Cancels Transaction to Avoid CTR Requirement,8
+2019,Loan or Finance Company,Application Fraud,"2,701"
+2019,Loan or Finance Company,Appraisal Fraud,15
+2019,Loan or Finance Company,Bribery or Gratuity,2
+2019,Loan or Finance Company,Business Loan,12
+2019,Loan or Finance Company,Changes Spelling or Arrangement of Name,82
+2019,Loan or Finance Company,Check,133
+2019,Loan or Finance Company,Consumer Loan ,"1,735"
+2019,Loan or Finance Company,Counterfeit Instrument,94
+2019,Loan or Finance Company,Credit/Debit Card,7
+2019,Loan or Finance Company,Elder Financial Exploitation,83
+2019,Loan or Finance Company,Embezzlement/Theft/Disappearance of Funds,37
+2019,Loan or Finance Company,Excessive Insurance,1
+2019,Loan or Finance Company,Exchanges Small Bills for Large Bills or Vice Versa,2
+2019,Loan or Finance Company,Foreclosure/Short Sale Fraud,28
+2019,Loan or Finance Company,Forgeries,218
+2019,Loan or Finance Company,Funnel Account,10
+2019,Loan or Finance Company,Healthcare/Public or Private Health Insurance,1
+2019,Loan or Finance Company,Identity Theft,444
+2019,Loan or Finance Company,"Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences",6
+2019,Loan or Finance Company,Loan Modification Fraud,264
+2019,Loan or Finance Company,Mail,16
+2019,Loan or Finance Company,Misuse of Position or Self-Dealing,18
+2019,Loan or Finance Company,Multiple Individuals with Same or Similar Identities,11
+2019,Loan or Finance Company,Origination Fraud,899
+2019,Loan or Finance Company,Casinos,1
+2019,Loan or Finance Company,Cyber Event,9
+2019,Loan or Finance Company,Fraud (Type),"2,567"
+2019,Loan or Finance Company,Gaming Activites,4
+2019,Loan or Finance Company,Identification Documentation,"2,067"
+2019,Loan or Finance Company,Money Laundering,35
+2019,Loan or Finance Company,Mortgage Fraud,"3,877"
+2019,Loan or Finance Company,Other Suspicious Activities,267
+2019,Loan or Finance Company,Structuring,80
+2019,Loan or Finance Company,Terrorist,1
+2019,Loan or Finance Company,Ponzi Scheme,3
+2019,Loan or Finance Company,Provided Questionable or False Documentation,"2,224"
+2019,Loan or Finance Company,Provided Questionable or False Identification,"17,247"
+2019,Loan or Finance Company,Pyramid Scheme,1
+2019,Loan or Finance Company,Refused or Avoided Request for Documentation,272
+2019,Loan or Finance Company,Single Individual with Multiple Identities,15
+2019,Loan or Finance Company,Suspected Public/Private Corruption (Foreign),1
+2019,Loan or Finance Company,Suspicion Concerning the Physical Condition of Funds,22
+2019,Loan or Finance Company,Suspicion Concerning the Source of Funds,355
+2019,Loan or Finance Company,"Suspicious Designation of Beneficiaries, Assignees or Joint Owners",29
+2019,Loan or Finance Company,Suspicious EFT/Wire Transfers,115
+2019,Loan or Finance Company,Suspicious Exchange of Currencies,2
+2019,Loan or Finance Company,Suspicious Inquiry by Customer Regarding Bsa Reporting or Recordkeeping Requirements,2
+2019,Loan or Finance Company,Suspicious Receipt of Government Payments/Benefits,1
+2019,Loan or Finance Company,Suspicious Use of Counter Checks or Markers,2
+2019,Loan or Finance Company,Suspicious Use of Multiple Accounts,42
+2019,Loan or Finance Company,Suspicious use of multiple transaction locations,11
+2019,Loan or Finance Company,Suspicious Use of Noncash Monetary Instruments,53
+2019,Loan or Finance Company,Suspicious Use of Third-Party Transactors (Straw-Man),100
+2019,Loan or Finance Company,Trade Based Money Laundering/Black Market Peso Exchange,1
+2019,Loan or Finance Company,Transaction Out of Pattern for Customer(s),107
+2019,Loan or Finance Company,"Transaction with No Apparent Economic, Business, or Lawful Purpose",40
+2019,Loan or Finance Company,Transaction(s) Below BSA Recordkeeping Threshold,81
+2019,Loan or Finance Company,Transaction(s) Below CTR Threshold,122
+2019,Loan or Finance Company,Transaction(s) Involving Foreign High Risk Jurisdiction,8
+2019,Loan or Finance Company,Two or More Individuals Working Together,203
+2019,Loan or Finance Company,Unclear or No Insurable Interest,1
+2019,Loan or Finance Company,Unlicensed or Unregistered MSB,1
+2019,Loan or Finance Company,Wire,150
+2019,Money Services Business (MSB),Account Takeover,"6,669"
+2019,Money Services Business (MSB),ACH,"13,974"
+2019,Money Services Business (MSB),Advance Fee,"3,854"
+2019,Money Services Business (MSB),Against Financial Institution Customer(s),"3,695"
+2019,Money Services Business (MSB),Against Financial Institution(s),114
+2019,Money Services Business (MSB),Alters or Cancels Transaction to Avoid BSA Recordkeeping Requirement,"61,669"
+2019,Money Services Business (MSB),Alters or Cancels Transaction to Avoid CTR Requirement,"4,093"
+2019,Money Services Business (MSB),Bribery or Gratuity,73
+2019,Money Services Business (MSB),Business Loan,9
+2019,Money Services Business (MSB),Changes Spelling or Arrangement of Name,"7,747"
+2019,Money Services Business (MSB),Check,"4,011"
+2019,Money Services Business (MSB),Consumer Loan,"1,209"
+2019,Money Services Business (MSB),Counterfeit Instrument,"10,642"
+2019,Money Services Business (MSB),Credit/Debit Card,"20,474"
+2019,Money Services Business (MSB),Customer Cancels Transaction to Avoid Bsa Reporting and Recordkeeping Requirements,427
+2019,Money Services Business (MSB),Elder Financial Exploitation,"20,125"
+2019,Money Services Business (MSB),Embezzlement/Theft/Disappearance of Funds,503
+2019,Money Services Business (MSB),Excessive Insurance,2
+2019,Money Services Business (MSB),Exchanges Small Bills for Large Bills or Vice Versa,47
+2019,Money Services Business (MSB),Foreclosure/Short Sale Fraud,2
+2019,Money Services Business (MSB),Forgeries,"1,740"
+2019,Money Services Business (MSB),Funnel Account,235
+2019,Money Services Business (MSB),Healthcare/Public or Private Health Insurance,9
+2019,Money Services Business (MSB),Human Smuggling,"2,115"
+2019,Money Services Business (MSB),Human Trafficking,599
+2019,Money Services Business (MSB),Identity Theft,"10,207"
+2019,Money Services Business (MSB),Insider Trading,2
+2019,Money Services Business (MSB),Known or Suspected Terrorist/Terrorist Organization,"1,015"
+2019,Money Services Business (MSB),"Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","10,043"
+2019,Money Services Business (MSB),Mail,"1,464"
+2019,Money Services Business (MSB),Market Manipulation,13
+2019,Money Services Business (MSB),Mass-Marketing,39
+2019,Money Services Business (MSB),Minimal Gaming with Large Transactions,7
+2019,Money Services Business (MSB),Misappropriation,2
+2019,Money Services Business (MSB),Misuse of Position or Self-Dealing,199
+2019,Money Services Business (MSB),Multiple Individuals with Same or Similar Identities,"4,058"
+2019,Money Services Business (MSB),Origination Fraud,1
+2019,Money Services Business (MSB),Cyber Event,69
+2019,Money Services Business (MSB),Fraud (Type),"91,940"
+2019,Money Services Business (MSB),Gaming Activites,201
+2019,Money Services Business (MSB),Identification Documentation,"6,813"
+2019,Money Services Business (MSB),Insurance,16
+2019,Money Services Business (MSB),Money Laundering,"8,144"
+2019,Money Services Business (MSB),Mortgage Fraud,55
+2019,Money Services Business (MSB),Other Suspicious Activities,"131,485"
+2019,Money Services Business (MSB),Securities/Futures/Options,21
+2019,Money Services Business (MSB),Structuring,"19,446"
+2019,Money Services Business (MSB),Terrorist,359
+2019,Money Services Business (MSB),Ponzi Scheme,124
+2019,Money Services Business (MSB),Proceeds Sent to or Received from Unrelated Third Party,3
+2019,Money Services Business (MSB),Provided Questionable or False Documentation,"25,003"
+2019,Money Services Business (MSB),Provided Questionable or False Identification,"15,232"
+2019,Money Services Business (MSB),Pyramid Scheme,356
+2019,Money Services Business (MSB),Refused or Avoided Request for Documentation,"17,654"
+2019,Money Services Business (MSB),Securities,19
+2019,Money Services Business (MSB),Single Individual with Multiple Identities,"2,573"
+2019,Money Services Business (MSB),Suspected Public/Private Corruption (Domestic),134
+2019,Money Services Business (MSB),Suspected Public/Private Corruption (Foreign),196
+2019,Money Services Business (MSB),Suspicion Concerning the Physical Condition of Funds,"1,486"
+2019,Money Services Business (MSB),Suspicion Concerning the Source of Funds,"71,225"
+2019,Money Services Business (MSB),"Suspicious Designation of Beneficiaries, Assignees or Joint Owners","2,308"
+2019,Money Services Business (MSB),Suspicious EFT/Wire Transfers,"48,331"
+2019,Money Services Business (MSB),Suspicious Exchange of Currencies,"2,782"
+2019,Money Services Business (MSB),Suspicious Inquiry by Customer Regarding Bsa Reporting or Recordkeeping Requirements,"28,091"
+2019,Money Services Business (MSB),"Suspicious Life Settlement Sales Insurance (E.g., STOLIs, Viaticals)",4
+2019,Money Services Business (MSB),Suspicious Receipt of Government Payments/Benefits,495
+2019,Money Services Business (MSB),Suspicious Use of Counter Checks or Markers,6
+2019,Money Services Business (MSB),Suspicious Use of Informal Value Transfer System,"66,456"
+2019,Money Services Business (MSB),Suspicious Use of Multiple Accounts,"5,511"
+2019,Money Services Business (MSB),Suspicious use of multiple transaction locations,"207,916"
+2019,Money Services Business (MSB),Suspicious Use of Noncash Monetary Instruments,"3,334"
+2019,Money Services Business (MSB),Suspicious Use of Third-Party Transactors (Straw-Man),"2,944"
+2019,Money Services Business (MSB),Trade Based Money Laundering/Black Market Peso Exchange,233
+2019,Money Services Business (MSB),Transaction Out of Pattern for Customer(s),"18,838"
+2019,Money Services Business (MSB),"Transaction with No Apparent Economic, Business, or Lawful Purpose","77,395"
+2019,Money Services Business (MSB),Transaction(s) Below BSA Recordkeeping Threshold,"401,312"
+2019,Money Services Business (MSB),Transaction(s) Below CTR Threshold,"41,255"
+2019,Money Services Business (MSB),Transaction(s) Involving Foreign High Risk Jurisdiction,"7,458"
+2019,Money Services Business (MSB),Two or More Individuals Working Together,"123,646"
+2019,Money Services Business (MSB),Unauthorized Electronic Intrusion,8
+2019,Money Services Business (MSB),Unclear or No Insurable Interest,1
+2019,Money Services Business (MSB),Unknown Source of Chips,7
+2019,Money Services Business (MSB),Unlicensed or Unregistered MSB,"1,284"
+2019,Money Services Business (MSB),Wash Trading,1
+2019,Money Services Business (MSB),Wire,"56,916"
+2020,Loan or Finance Company,Account Takeover,73
+2020,Loan or Finance Company,ACH,202
+2020,Loan or Finance Company,Against Financial Institution Customer(s),45
+2020,Loan or Finance Company,Against Financial Institution(s),22
+2020,Loan or Finance Company,Alters or Cancels Transaction to Avoid BSA Recordkeeping Requirement,9
+2020,Loan or Finance Company,Alters or Cancels Transaction to Avoid CTR Requirement,3
+2020,Loan or Finance Company,Application Fraud,"5,183"
+2020,Loan or Finance Company,Appraisal Fraud,25
+2020,Loan or Finance Company,Bribery or Gratuity,2
+2020,Loan or Finance Company,Business Loan,53
+2020,Loan or Finance Company,Changes Spelling or Arrangement of Name,14
+2020,Loan or Finance Company,Check,95
+2020,Loan or Finance Company,Consumer Loan,743
+2020,Loan or Finance Company,Counterfeit Instrument,58
+2020,Loan or Finance Company,Credit/Debit Card,2
+2020,Loan or Finance Company,Elder Financial Exploitation,62
+2020,Loan or Finance Company,Embezzlement/Theft/Disappearance of Funds,36
+2020,Loan or Finance Company,Excessive Insurance,2
+2020,Loan or Finance Company,Foreclosure/Short Sale Fraud,28
+2020,Loan or Finance Company,Forgeries,151
+2020,Loan or Finance Company,Funnel Account,17
+2020,Loan or Finance Company,Healthcare/Public or Private Health Insurance,11
+2020,Loan or Finance Company,Human Smuggling,1
+2020,Loan or Finance Company,Human Trafficking,3
+2020,Loan or Finance Company,Identity Theft,414
+2020,Loan or Finance Company,"Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences",18
+2020,Loan or Finance Company,Loan Modification Fraud,171
+2020,Loan or Finance Company,Mail,10
+2020,Loan or Finance Company,Misuse of Position or Self-Dealing,16
+2020,Loan or Finance Company,Multiple Individuals with Same or Similar Identities,23
+2020,Loan or Finance Company,Origination Fraud,"3,144"
+2020,Loan or Finance Company,Cyber Event,10
+2020,Loan or Finance Company,Fraud (Type),"2,202"
+2020,Loan or Finance Company,Identification Documentation,106
+2020,Loan or Finance Company,Insurance,2
+2020,Loan or Finance Company,Money Laundering,6
+2020,Loan or Finance Company,Mortgage Fraud,"2,215"
+2020,Loan or Finance Company,Other Suspicious Activities,224
+2020,Loan or Finance Company,Structuring,98
+2020,Loan or Finance Company,Ponzi Scheme,2
+2020,Loan or Finance Company,Proceeds Sent to or Received from Unrelated Third Party,1
+2020,Loan or Finance Company,Provided Questionable or False Documentation,"3,749"
+2020,Loan or Finance Company,Provided Questionable or False Identification,"17,230"
+2020,Loan or Finance Company,Pyramid Scheme,1
+2020,Loan or Finance Company,Refused or Avoided Request for Documentation,713
+2020,Loan or Finance Company,Single Individual with Multiple Identities,51
+2020,Loan or Finance Company,Suspected Public/Private Corruption (Domestic),8
+2020,Loan or Finance Company,Suspected Public/Private Corruption (Foreign),5
+2020,Loan or Finance Company,Suspicion Concerning the Physical Condition of Funds,5
+2020,Loan or Finance Company,Suspicion Concerning the Source of Funds,494
+2020,Loan or Finance Company,"Suspicious Designation of Beneficiaries, Assignees or Joint Owners",18
+2020,Loan or Finance Company,Suspicious EFT/Wire Transfers,158
+2020,Loan or Finance Company,Suspicious Exchange of Currencies,4
+2020,Loan or Finance Company,Suspicious Inquiry by Customer Regarding Bsa Reporting or Recordkeeping Requirements,9
+2020,Loan or Finance Company,Suspicious Receipt of Government Payments/Benefits,28
+2020,Loan or Finance Company,Suspicious Use of Counter Checks or Markers,1
+2020,Loan or Finance Company,Suspicious Use of Multiple Accounts,76
+2020,Loan or Finance Company,Suspicious use of multiple transaction locations,10
+2020,Loan or Finance Company,Suspicious Use of Noncash Monetary Instruments,123
+2020,Loan or Finance Company,Suspicious Use of Third-Party Transactors (Straw-Man),93
+2020,Loan or Finance Company,Trade Based Money Laundering/Black Market Peso Exchange,5
+2020,Loan or Finance Company,Transaction Out of Pattern for Customer(s),33
+2020,Loan or Finance Company,"Transaction with No Apparent Economic, Business, or Lawful Purpose",83
+2020,Loan or Finance Company,Transaction(s) Below BSA Recordkeeping Threshold,50
+2020,Loan or Finance Company,Transaction(s) Below CTR Threshold,33
+2020,Loan or Finance Company,Transaction(s) Involving Foreign High Risk Jurisdiction,13
+2020,Loan or Finance Company,Two or More Individuals Working Together,366
+2020,Loan or Finance Company,Unlicensed or Unregistered MSB,2
+2020,Loan or Finance Company,Wire,130
+2020,Money Services Business (MSB),Account Takeover,"13,480"
+2020,Money Services Business (MSB),ACH,"20,117"
+2020,Money Services Business (MSB),Advance Fee,"1,866"
+2020,Money Services Business (MSB),Against Financial Institution Customer(s),"10,383"
+2020,Money Services Business (MSB),Against Financial Institution(s),81
+2020,Money Services Business (MSB),Alters or Cancels Transaction to Avoid BSA Recordkeeping Requirement,"82,924"
+2020,Money Services Business (MSB),Alters or Cancels Transaction to Avoid CTR Requirement,"4,022"
+2020,Money Services Business (MSB),Application Fraud,7
+2020,Money Services Business (MSB),Appraisal Fraud,1
+2020,Money Services Business (MSB),Bribery or Gratuity,52
+2020,Money Services Business (MSB),Business Loan,118
+2020,Money Services Business (MSB),Changes Spelling or Arrangement of Name,"6,608"
+2020,Money Services Business (MSB),Check,"5,658"
+2020,Money Services Business (MSB),Consumer Loan,966
+2020,Money Services Business (MSB),Counterfeit Instrument,"12,613"
+2020,Money Services Business (MSB),Credit/Debit Card,"33,293"
+2020,Money Services Business (MSB),Elder Financial Exploitation,"12,387"
+2020,Money Services Business (MSB),Embezzlement/Theft/Disappearance of Funds,482
+2020,Money Services Business (MSB),Excessive Insurance,11
+2020,Money Services Business (MSB),Exchanges Small Bills for Large Bills or Vice Versa,70
+2020,Money Services Business (MSB),Foreclosure/Short Sale Fraud,1
+2020,Money Services Business (MSB),Forgeries,"2,448"
+2020,Money Services Business (MSB),Funnel Account,320
+2020,Money Services Business (MSB),Healthcare/Public or Private Health Insurance,19
+2020,Money Services Business (MSB),Human Smuggling,"1,408"
+2020,Money Services Business (MSB),Human Trafficking,760
+2020,Money Services Business (MSB),Identity Theft,"15,421"
+2020,Money Services Business (MSB),Insider Trading,1
+2020,Money Services Business (MSB),Known or Suspected Terrorist/Terrorist Organization,"1,057"
+2020,Money Services Business (MSB),"Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","12,937"
+2020,Money Services Business (MSB),Mail,47
+2020,Money Services Business (MSB),Market Manipulation,3
+2020,Money Services Business (MSB),Mass-Marketing,43
+2020,Money Services Business (MSB),Minimal Gaming with Large Transactions,7
+2020,Money Services Business (MSB),Misappropriation,4
+2020,Money Services Business (MSB),Misuse of Position or Self-Dealing,165
+2020,Money Services Business (MSB),Multiple Individuals with Same or Similar Identities,"4,170"
+2020,Money Services Business (MSB),Origination Fraud,4
+2020,Money Services Business (MSB),Cyber Event,298
+2020,Money Services Business (MSB),Fraud (Type),"66,669"
+2020,Money Services Business (MSB),Gaming Activites,109
+2020,Money Services Business (MSB),Identification Documentation,"7,172"
+2020,Money Services Business (MSB),Insurance,17
+2020,Money Services Business (MSB),Money Laundering,"9,102"
+2020,Money Services Business (MSB),Mortgage Fraud,29
+2020,Money Services Business (MSB),Other Suspicious Activities,"139,551"
+2020,Money Services Business (MSB),Securities/Futures/Options,12
+2020,Money Services Business (MSB),Structuring,"22,179"
+2020,Money Services Business (MSB),Terrorist,340
+2020,Money Services Business (MSB),Ponzi Scheme,149
+2020,Money Services Business (MSB),Proceeds Sent to or Received from Unrelated Third Party,1
+2020,Money Services Business (MSB),Provided Questionable or False Documentation,"24,854"
+2020,Money Services Business (MSB),Provided Questionable or False Identification,"14,406"
+2020,Money Services Business (MSB),Pyramid Scheme,133
+2020,Money Services Business (MSB),Refused or Avoided Request for Documentation,"20,063"
+2020,Money Services Business (MSB),Securities,42
+2020,Money Services Business (MSB),Single Individual with Multiple Identities,"2,509"
+2020,Money Services Business (MSB),Suspected Public/Private Corruption (Domestic),40
+2020,Money Services Business (MSB),Suspected Public/Private Corruption (Foreign),47
+2020,Money Services Business (MSB),Suspicion Concerning the Physical Condition of Funds,"1,219"
+2020,Money Services Business (MSB),Suspicion Concerning the Source of Funds,"60,068"
+2020,Money Services Business (MSB),"Suspicious Designation of Beneficiaries, Assignees or Joint Owners","2,563"
+2020,Money Services Business (MSB),Suspicious EFT/Wire Transfers,"74,878"
+2020,Money Services Business (MSB),Suspicious Exchange of Currencies,"2,726"
+2020,Money Services Business (MSB),Suspicious Inquiry by Customer Regarding Bsa Reporting or Recordkeeping Requirements,"5,259"
+2020,Money Services Business (MSB),"Suspicious Life Settlement Sales Insurance (E.g., STOLIs, Viaticals)",1
+2020,Money Services Business (MSB),Suspicious Receipt of Government Payments/Benefits,"1,140"
+2020,Money Services Business (MSB),Suspicious Use of Counter Checks or Markers,5
+2020,Money Services Business (MSB),Suspicious Use of Informal Value Transfer System,"93,281"
+2020,Money Services Business (MSB),Suspicious Use of Multiple Accounts,"9,631"
+2020,Money Services Business (MSB),Suspicious use of multiple transaction locations,"196,423"
+2020,Money Services Business (MSB),Suspicious Use of Noncash Monetary Instruments,"3,812"
+2020,Money Services Business (MSB),Suspicious Use of Third-Party Transactors (Straw-Man),"3,333"
+2020,Money Services Business (MSB),Trade Based Money Laundering/Black Market Peso Exchange,159
+2020,Money Services Business (MSB),Transaction Out of Pattern for Customer(s),"22,466"
+2020,Money Services Business (MSB),"Transaction with No Apparent Economic, Business, or Lawful Purpose","124,774"
+2020,Money Services Business (MSB),Transaction(s) Below BSA Recordkeeping Threshold,"450,074"
+2020,Money Services Business (MSB),Transaction(s) Below CTR Threshold,"51,479"
+2020,Money Services Business (MSB),Transaction(s) Involving Foreign High Risk Jurisdiction,"5,783"
+2020,Money Services Business (MSB),Two or More Individuals Working Together,"150,083"
+2020,Money Services Business (MSB),Unknown Source of Chips,9
+2020,Money Services Business (MSB),Unlicensed or Unregistered MSB,"18,154"
+2020,Money Services Business (MSB),Wash Trading,2
+2020,Money Services Business (MSB),Wire,"43,192"
+2021,Loan or Finance Company,Account Takeover,43
+2021,Loan or Finance Company,ACH,403
+2021,Loan or Finance Company,Advance Fee,4
+2021,Loan or Finance Company,Against Financial Institution Customer(s),26
+2021,Loan or Finance Company,Against Financial Institution(s),24
+2021,Loan or Finance Company,Alters or Cancels Transaction to Avoid BSA Recordkeeping Requirement,15
+2021,Loan or Finance Company,Alters or Cancels Transaction to Avoid CTR Requirement,4
+2021,Loan or Finance Company,Application Fraud,"7,983"
+2021,Loan or Finance Company,Appraisal Fraud,17
+2021,Loan or Finance Company,Bribery or Gratuity,2
+2021,Loan or Finance Company,Business Loan,"1,446"
+2021,Loan or Finance Company,Changes Spelling or Arrangement of Name,30
+2021,Loan or Finance Company,Check,167
+2021,Loan or Finance Company,Consumer Loan,"2,895"
+2021,Loan or Finance Company,Counterfeit Instrument,114
+2021,Loan or Finance Company,Credit/Debit Card,15
+2021,Loan or Finance Company,Elder Financial Exploitation,118
+2021,Loan or Finance Company,Embezzlement/Theft/Disappearance of Funds,33
+2021,Loan or Finance Company,Excessive Insurance,1
+2021,Loan or Finance Company,Foreclosure/Short Sale Fraud,24
+2021,Loan or Finance Company,Forgeries,468
+2021,Loan or Finance Company,Funnel Account,10
+2021,Loan or Finance Company,Healthcare/Public or Private Health Insurance,4
+2021,Loan or Finance Company,Human Smuggling,1
+2021,Loan or Finance Company,Human Trafficking,2
+2021,Loan or Finance Company,Identity Theft,"1,662"
+2021,Loan or Finance Company,"Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences",27
+2021,Loan or Finance Company,Loan Modification Fraud,197
+2021,Loan or Finance Company,Mail,22
+2021,Loan or Finance Company,Market Manipulation,2
+2021,Loan or Finance Company,Mass-Marketing,2
+2021,Loan or Finance Company,Misappropriation,1
+2021,Loan or Finance Company,Misuse of Position or Self-Dealing,42
+2021,Loan or Finance Company,Multiple Individuals with Same or Similar Identities,68
+2021,Loan or Finance Company,Origination Fraud,"4,815"
+2021,Loan or Finance Company,Cyber Event,21
+2021,Loan or Finance Company,Fraud (Type),"6,422"
+2021,Loan or Finance Company,Gaming Activites,4
+2021,Loan or Finance Company,Identification Documentation,"1,611"
+2021,Loan or Finance Company,Insurance,5
+2021,Loan or Finance Company,Money Laundering,29
+2021,Loan or Finance Company,Mortgage Fraud,"2,769"
+2021,Loan or Finance Company,Other Suspicious Activities,"2,582"
+2021,Loan or Finance Company,Structuring,208
+2021,Loan or Finance Company,Terrorist,2
+2021,Loan or Finance Company,Ponzi Scheme,2
+2021,Loan or Finance Company,Proceeds Sent to or Received from Unrelated Third Party,1
+2021,Loan or Finance Company,Provided Questionable or False Documentation,"7,131"
+2021,Loan or Finance Company,Provided Questionable or False Identification,"25,294"
+2021,Loan or Finance Company,Pyramid Scheme,1
+2021,Loan or Finance Company,Refused or Avoided Request for Documentation,213
+2021,Loan or Finance Company,Securities,2
+2021,Loan or Finance Company,Single Individual with Multiple Identities,220
+2021,Loan or Finance Company,Suspected Public/Private Corruption (Domestic),6
+2021,Loan or Finance Company,Suspected Public/Private Corruption (Foreign),2
+2021,Loan or Finance Company,Suspicion Concerning the Physical Condition of Funds,6
+2021,Loan or Finance Company,Suspicion Concerning the Source of Funds,931
+2021,Loan or Finance Company,"Suspicious Designation of Beneficiaries, Assignees or Joint Owners",17
+2021,Loan or Finance Company,Suspicious EFT/Wire Transfers,226
+2021,Loan or Finance Company,Suspicious Exchange of Currencies,2
+2021,Loan or Finance Company,Suspicious Inquiry by Customer Regarding Bsa Reporting or Recordkeeping Requirements,5
+2021,Loan or Finance Company,Suspicious Receipt of Government Payments/Benefits,65
+2021,Loan or Finance Company,Suspicious Use of Multiple Accounts,148
+2021,Loan or Finance Company,Suspicious use of multiple transaction locations,37
+2021,Loan or Finance Company,Suspicious Use of Noncash Monetary Instruments,94
+2021,Loan or Finance Company,Suspicious Use of Third-Party Transactors (Straw-Man),79
+2021,Loan or Finance Company,Trade Based Money Laundering/Black Market Peso Exchange,6
+2021,Loan or Finance Company,Transaction Out of Pattern for Customer(s),70
+2021,Loan or Finance Company,"Transaction with No Apparent Economic, Business, or Lawful Purpose",619
+2021,Loan or Finance Company,Transaction(s) Below BSA Recordkeeping Threshold,96
+2021,Loan or Finance Company,Transaction(s) Below CTR Threshold,54
+2021,Loan or Finance Company,Transaction(s) Involving Foreign High Risk Jurisdiction,71
+2021,Loan or Finance Company,Two or More Individuals Working Together,"1,152"
+2021,Loan or Finance Company,Unauthorized Pooling,1
+2021,Loan or Finance Company,Unlicensed or Unregistered MSB,6
+2021,Loan or Finance Company,Wire,376
+2021,Money Services Business (MSB),Account Takeover,"12,097"
+2021,Money Services Business (MSB),ACH,"26,888"
+2021,Money Services Business (MSB),Advance Fee,915
+2021,Money Services Business (MSB),Against Financial Institution Customer(s),"6,645"
+2021,Money Services Business (MSB),Against Financial Institution(s),65
+2021,Money Services Business (MSB),Alters or Cancels Transaction to Avoid BSA Recordkeeping Requirement,"88,795"
+2021,Money Services Business (MSB),Alters or Cancels Transaction to Avoid CTR Requirement,"5,395"
+2021,Money Services Business (MSB),Application Fraud,1
+2021,Money Services Business (MSB),Bribery or Gratuity,53
+2021,Money Services Business (MSB),Business Loan,862
+2021,Money Services Business (MSB),Changes Spelling or Arrangement of Name,"9,272"
+2021,Money Services Business (MSB),Check,"6,311"
+2021,Money Services Business (MSB),Consumer Loan,826
+2021,Money Services Business (MSB),Counterfeit Instrument,"7,163"
+2021,Money Services Business (MSB),Credit/Debit Card,"38,921"
+2021,Money Services Business (MSB),Elder Financial Exploitation,"11,799"
+2021,Money Services Business (MSB),Embezzlement/Theft/Disappearance of Funds,881
+2021,Money Services Business (MSB),Excessive Insurance,16
+2021,Money Services Business (MSB),Excessive or Unusal Cash Borrowing against Policy/Annuity,1
+2021,Money Services Business (MSB),Exchanges Small Bills for Large Bills or Vice Versa,75
+2021,Money Services Business (MSB),Forgeries,"2,478"
+2021,Money Services Business (MSB),Funnel Account,"1,949"
+2021,Money Services Business (MSB),Healthcare/Public or Private Health Insurance,38
+2021,Money Services Business (MSB),Human Smuggling,"6,144"
+2021,Money Services Business (MSB),Human Trafficking,"1,791"
+2021,Money Services Business (MSB),Identity Theft,"20,788"
+2021,Money Services Business (MSB),Insider Trading,4
+2021,Money Services Business (MSB),Known or Suspected Terrorist/Terrorist Organization,869
+2021,Money Services Business (MSB),"Little or No Concern for Product Performance Penalites, Fees, or Tax Consequences","12,094"
+2021,Money Services Business (MSB),Loan Modification Fraud,1
+2021,Money Services Business (MSB),Mail,31
+2021,Money Services Business (MSB),Market Manipulation,13
+2021,Money Services Business (MSB),Mass-Marketing,101
+2021,Money Services Business (MSB),Minimal Gaming with Large Transactions,68
+2021,Money Services Business (MSB),Misappropriation,2
+2021,Money Services Business (MSB),Misuse of Position or Self-Dealing,242
+2021,Money Services Business (MSB),Multiple Individuals with Same or Similar Identities,"4,063"
+2021,Money Services Business (MSB),Cyber Event,"1,204"
+2021,Money Services Business (MSB),Fraud (Type),"70,907"
+2021,Money Services Business (MSB),Gaming Activites,301
+2021,Money Services Business (MSB),Identification Documentation,"5,784"
+2021,Money Services Business (MSB),Insurance,7
+2021,Money Services Business (MSB),Money Laundering,"11,203"
+2021,Money Services Business (MSB),Mortgage Fraud,8
+2021,Money Services Business (MSB),Other Suspicious Activities,"181,799"
+2021,Money Services Business (MSB),Securities/Futures/Options,18
+2021,Money Services Business (MSB),Structuring,"28,340"
+2021,Money Services Business (MSB),Other Terrorist,348
+2021,Money Services Business (MSB),Ponzi Scheme,215
+2021,Money Services Business (MSB),Proceeds Sent to or Received from Unrelated Third Party,3
+2021,Money Services Business (MSB),Provided Questionable or False Documentation,"24,577"
+2021,Money Services Business (MSB),Provided Questionable or False Identification,"15,884"
+2021,Money Services Business (MSB),Pyramid Scheme,137
+2021,Money Services Business (MSB),Refused or Avoided Request for Documentation,"25,222"
+2021,Money Services Business (MSB),Securities,34
+2021,Money Services Business (MSB),Single Individual with Multiple Identities,"3,404"
+2021,Money Services Business (MSB),Suspected Public/Private Corruption (Domestic),34
+2021,Money Services Business (MSB),Suspected Public/Private Corruption (Foreign),50
+2021,Money Services Business (MSB),Suspicion Concerning the Physical Condition of Funds,"1,111"
+2021,Money Services Business (MSB),Suspicion Concerning the Source of Funds,"100,259"
+2021,Money Services Business (MSB),"Suspicious Designation of Beneficiaries, Assignees or Joint Owners","2,578"
+2021,Money Services Business (MSB),Suspicious EFT/Wire Transfers,"86,733"
+2021,Money Services Business (MSB),Suspicious Exchange of Currencies,"6,062"
+2021,Money Services Business (MSB),Suspicious Inquiry by Customer Regarding Bsa Reporting or Recordkeeping Requirements,"5,682"
+2021,Money Services Business (MSB),"Suspicious Life Settlement Sales Insurance (E.g., STOLIs, Viaticals)",2
+2021,Money Services Business (MSB),Suspicious Receipt of Government Payments/Benefits,"2,066"
+2021,Money Services Business (MSB),Suspicious Termination of Policy or Contract,1
+2021,Money Services Business (MSB),Suspicious Use of Counter Checks or Markers,3
+2021,Money Services Business (MSB),Suspicious Use of Informal Value Transfer System,"114,882"
+2021,Money Services Business (MSB),Suspicious Use of Multiple Accounts,"26,145"
+2021,Money Services Business (MSB),Suspicious use of multiple transaction locations,"211,453"
+2021,Money Services Business (MSB),Suspicious Use of Noncash Monetary Instruments,"3,867"
+2021,Money Services Business (MSB),Suspicious Use of Third-Party Transactors (Straw-Man),"5,399"
+2021,Money Services Business (MSB),Trade Based Money Laundering/Black Market Peso Exchange,115
+2021,Money Services Business (MSB),Transaction Out of Pattern for Customer(s),"37,427"
+2021,Money Services Business (MSB),"Transaction with No Apparent Economic, Business, or Lawful Purpose","272,439"
+2021,Money Services Business (MSB),Transaction(s) Below BSA Recordkeeping Threshold,"531,167"
+2021,Money Services Business (MSB),Transaction(s) Below CTR Threshold,"70,185"
+2021,Money Services Business (MSB),Transaction(s) Involving Foreign High Risk Jurisdiction,"8,807"
+2021,Money Services Business (MSB),Two or More Individuals Working Together,"205,769"
+2021,Money Services Business (MSB),Unknown Source of Chips,9
+2021,Money Services Business (MSB),Unlicensed or Unregistered MSB,"66,751"
+2021,Money Services Business (MSB),Wash Trading,10
+2021,Money Services Business (MSB),Wire,"33,830"
+,,,
+,,,
+,,,
